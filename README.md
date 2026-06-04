@@ -1,10 +1,1 @@
-Bulding simple Agent Claude from scratch
-1. 5 Tools — read files, write files, edit files, execute shell commands, search the web
-
-2. ReAct Loop — The industry-standard pattern for autonomous agents
-
-3. Conversation Memory — Maintains context across multiple tasks
-
-4. Colored CLI — Because good UX matters
-
-5. Human-in-the-Loop— Safety confirmations for dangerous operations
+Bulding simple Agent Claude from scratch agentloop
