@@ -1,3 +1,6 @@
 print('vanhau')
 
-print ("Huy: Update code in testconflict.py")
+def greet(name):
+    print(f'hello {name}')
+    print('Han changed testconflict.py file')
+
